@@ -5,7 +5,7 @@ history off the device over USB, parses the raw flash format, and serves a
 live + historical dashboard in a browser. No external services, no cloud
 dependency — everything runs locally, including on a Raspberry Pi.
 
-![Dashboard screenshot](docs/screenshot.png)
+![Dashboard screenshot](docs/screenshot.jpg)
 
 ## Features
 
