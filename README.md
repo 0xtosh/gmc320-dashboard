@@ -32,7 +32,7 @@ allows it, but see **Known quirks** below if you're on different firmware.
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/gmc320-dashboard.git
+git clone https://github.com/0xtosh/gmc320-dashboard.git
 cd gmc320-dashboard
 pip install -r requirements.txt
 ```
